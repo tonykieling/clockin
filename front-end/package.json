@@ -4,7 +4,7 @@
   "private": false,
   "dependencies": {
     "@types/react": "^16.9.35",
-    "axios": "^0.21.1",
+    "axios": "^0.21.2",
     "bootstrap": "^4.5.0",
     "jspdf": "^2.3.1",
     "jwt-decode": "^2.2.0",
